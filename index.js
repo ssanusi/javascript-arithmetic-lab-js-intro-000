@@ -14,5 +14,22 @@ function inc(n){
   return n++;
 }
 function dec(n){
-  return n--;
+  
 }
+function makeInt(n){
+  
+}
+function makeInt(n){
+  
+}
+function makeInt(n){
+  
+}
+function preserveDecimal(n){
+  
+}
+function preserveDecimal(n){
+  
+}
+
+
