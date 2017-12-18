@@ -19,7 +19,7 @@ function dec(n){
  return n;
 }
 function makeInt(n){
-   n1 =Number.parseInt(n);
+   n1 = parseInt(n);
    return n1;
 
 }
