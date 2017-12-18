@@ -19,7 +19,7 @@ function dec(n){
  return n;
 }
 function makeInt(n){
-  return n;
+  return "n";
 
 }
 function makeInt(n){
